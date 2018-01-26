@@ -1,0 +1,11 @@
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\bin\Debug\netcoreapp2.0\Stage3_Verification.deps.json
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\bin\Debug\netcoreapp2.0\Stage3_Verification.runtimeconfig.json
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\bin\Debug\netcoreapp2.0\Stage3_Verification.runtimeconfig.dev.json
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\bin\Debug\netcoreapp2.0\Stage3_Verification.dll
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\bin\Debug\netcoreapp2.0\Stage3_Verification.pdb
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.csprojResolveAssemblyReference.cache
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.csproj.CoreCompileInputs.cache
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.AssemblyInfoInputs.cache
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.AssemblyInfo.cs
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.dll
+C:\Users\mahmoodt\source\repos\Stage3_Verification\Stage3_Verification\obj\Debug\netcoreapp2.0\Stage3_Verification.pdb
